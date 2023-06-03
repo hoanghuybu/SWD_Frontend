@@ -2,6 +2,7 @@ import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import { publicRoutes} from './route/Route';
 import DefaultLayout from './components/DefaultLayout/DefaultLayout';
 
+
 function App() {
   return (
     <Router>
